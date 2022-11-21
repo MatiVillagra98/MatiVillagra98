@@ -1,5 +1,5 @@
 <div>
-<img width="70%" height = "70%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="cover" />
+<img width="80%" height = "80%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="cover" />
 </div>
 
 # **Hola, Soy [Matias Villagra](https://www.linkedin.com/in/matias-villagra-067955248/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="Hola">
