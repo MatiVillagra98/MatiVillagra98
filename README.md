@@ -1,6 +1,7 @@
 <div>
-<img width="50%" height = "50%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="cover" />
+<img width="80%" height = "80%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="cover" />
 </div>
+
 
 # **Hola, Soy [Matias Villagra](https://www.linkedin.com/in/matias-villagra-067955248/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="Hola">
 
@@ -9,7 +10,7 @@ Me considero una persona que acepta los grandes desafíos con compromiso y deter
 Estoy interesado en el desarrollo web 🖥️, tanto desde el lado de **Front-end como del Back-end**.<br>
 Actualmente estoy trabajando en mi Portafolio y terminando algunos proyectos. <br>
 Pronto seran deployados, pero por ahora se pueden acceder a través de mis repositorios de GitHub . <br>
-Estoy buscando colaborar en cualquier tipo de proyecto que me brinde más experiencia laboral. <br>
+Estoy buscando **colaborar en cualquier tipo de proyecto** que me brinde más **experiencia laboral**. <br>
 
 <div >
     <img width="50%" height="50%" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif"/>
@@ -17,16 +18,18 @@ Estoy buscando colaborar en cualquier tipo de proyecto que me brinde más experi
 </br>
 
 ## **Lenguajes y herramientas** <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-<img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
-<img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
-<img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
-<img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'>
-<img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> 
-<img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> 
-<img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
-<img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> 
-<img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> 
-<img width ='60px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
+<div align="center">
+    <img width ='70px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
+    <img width ='70px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
+    <img width ='70px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
+    <img width ='70px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'>
+    <img width ='70px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> 
+    <img width ='70px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> 
+    <img width ='70px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
+    <img width ='70px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> 
+    <img width ='70px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> 
+    <img width ='70px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
+</div>
 </br></br>
 
 ## **Mis Proyectos** <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
@@ -36,7 +39,6 @@ Nace como proyecto grupal integrador del bootcamp **Soy Henry**, para poner en p
 En este gran proyecto me desempeñe como **FullStack Developer** realizando rutas CRUD y componentes para el Dashboard de los usuarios, trabajamos mediante la metodología SCRUM con las siguientes tecnologías:<br>
 Javascript | React | CSS | Redux | Node | Sequelize | PostgreSQL | GitHub | Figma | Trello
 
-<!-- ![Group 7](https://user-images.githubusercontent.com/76783198/184268606-e727df34-1c68-41cb-b835-ea2617bf07bf.png) -->
 <div align="row"> 
     <img src="https://user-images.githubusercontent.com/99623075/203130028-6c5845f3-53f8-410e-806f-a9eb556eb1a8.png" width="32%" height="32%"  alt="PreviewImage"/>
     <img src="https://user-images.githubusercontent.com/99623075/203130042-0693581c-aede-4524-bd50-8b2e05600af5.png" width="32%" height="32%"  alt="PreviewImage"/>
