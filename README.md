@@ -38,9 +38,9 @@ Javascript | React | CSS | Redux | Node | Sequelize | PostgreSQL | GitHub | Figm
 
 <!-- ![Group 7](https://user-images.githubusercontent.com/76783198/184268606-e727df34-1c68-41cb-b835-ea2617bf07bf.png) -->
 <div align="row"> 
-    <img src="./img/PrevPF1.png" width="32%" height="32%"  />
-    <img src="./img/PrevPF2.png" width="32%" height="32%"  />
-    <img src="./img/PrevPF3.png" width="32%" height="32%"  />
+    <img src="https://user-images.githubusercontent.com/99623075/203130028-6c5845f3-53f8-410e-806f-a9eb556eb1a8.png" width="32%" height="32%"  alt="PreviewImage"/>
+    <img src="https://user-images.githubusercontent.com/99623075/203130042-0693581c-aede-4524-bd50-8b2e05600af5.png" width="32%" height="32%"  alt="PreviewImage"/>
+    <img src="https://user-images.githubusercontent.com/99623075/203130049-6b0a708c-b967-4af2-a844-e2652e74a699.png" width="32%" height="32%"  alt="PreviewImage"/>
 </div>
 
 
@@ -52,17 +52,17 @@ Javascript | React | CSS | Redux | Node | Sequelize | PostgreSQL | GitHub | Figm
 
 
 ### **PI FOOD**
-Single-page application enfocada en mostrar informacion de miles de recetas de todo el mundo utilizando una API externa.<br>
+Single-page application enfocada en mostrar informacion de miles de recetas de todo el mundo utilizando una **API externa**.<br>
 Con la posibilidad de crear nuevas recetas, buscar recetas por nombre, filtrarlas por dieta o nivel saludable, añadir a favoritos. <br>
 Esta aplicación la desarrolle integramente, tanto frontend como backend, con las siguientes tecnologías:<br>
 Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 
 
 <div align="row" >
-      <img src="./img/PrevPI1.png" width="32%" height="32%"  />
-      <img src="./img/PrevPI2.png" width="32%" height="32%"  />
-      <img src="./img/PrevPI3.png" width="32%" height="32%"  />
-      <img src="./img/PrevPI5.png" width="32%" height="32%"  />
+      <img src="https://user-images.githubusercontent.com/99623075/203130058-462c2d64-3d95-498a-bea4-da9502a65f34.png" width="32%" height="32%"  />
+      <img src="https://user-images.githubusercontent.com/99623075/203130068-83deac30-4c36-48d0-9c0d-3601f4020126.png" width="32%" height="32%"  />
+      <img src="https://user-images.githubusercontent.com/99623075/203130086-80ec363e-b01f-46ed-9d6c-02c24b4431f6.png" width="32%" height="32%"  />
+      <img src="https://user-images.githubusercontent.com/99623075/203130107-7d880a5c-605a-44ac-9009-9b49bdd3f563.png" width="32%" height="32%"  />
 </div>
 
 <!-- ## **Faltan Deploy del FOOD**
