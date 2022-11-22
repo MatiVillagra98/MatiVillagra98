@@ -94,7 +94,7 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
     </a>
     <br>
     <a href="https://mativillagra98.github.io/">
-      <img align="center" src="https://user-images.githubusercontent.com/99623075/203181960-cd6d5e2f-ab41-4e67-913c-771c0fd5518e.png"/>
+      <img align="center" src="https://user-images.githubusercontent.com/99623075/203182165-3ed01c31-e261-410d-bd4c-25d67b9fe906.png"/>
       Mi Portfolio
     </a>
 </p>
