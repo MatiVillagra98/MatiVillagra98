@@ -1,5 +1,5 @@
 <div>
-<img width="80%" height = "80%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="cover" />
+<img width="80%" height = "80%" src="https://user-images.githubusercontent.com/99623075/203200469-16c6883e-7693-47a6-bd30-73d26c20cb6d.gif" alt="banner" />
 </div>
 
 
