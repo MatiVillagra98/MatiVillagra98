@@ -46,7 +46,7 @@ Javascript | React | CSS | Redux | Node | Sequelize | PostgreSQL | GitHub | Figm
 </div>
 
 
-<a href="https://6evi.duckdns.org:1337/" fontSize="34">
+<a href="https://tecnomerch.christianvillegas.com/" fontSize="34">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
       TecnoMerch Deploy
 </a>
